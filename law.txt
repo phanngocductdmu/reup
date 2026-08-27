@@ -1,0 +1,41 @@
+<h1>Thỏa thuận Giấy phép và Dịch vụ phần mềm pyVideoTrans</h1>
+<p>Ngày cập nhật: Ngày 21 tháng 10 năm 2025</p>
+
+<p>Chào mừng bạn sử dụng pyVideoTrans (sau đây gọi tắt là "phần mềm")! Đây là công cụ mã nguồn mở và miễn phí dùng để dịch video và phiên âm giọng nói cục bộ. Trước khi cài đặt, sao chép hoặc sử dụng phần mềm, vui lòng đọc kỹ và hiểu rõ các điều khoản trong thỏa thuận này.</p>
+
+<p class="warning"><strong>Hành động cài đặt, sao chép, tải xuống hoặc sử dụng phần mềm đồng nghĩa với việc bạn đã đọc, hiểu và vô điều kiện chấp nhận toàn bộ các điều khoản trong thỏa thuận này. Nếu không đồng ý, vui lòng ngừng sử dụng và xóa phần mềm khỏi thiết bị của bạn.</strong></p>
+
+<h2>1. Cấp phép và Tính chất phần mềm</h2>
+<ul>
+    <li><strong>Mã nguồn mở miễn phí</strong>: Phần mềm được phát hành miễn phí theo giấy phép GPL-v3. Bạn có thể lấy mã nguồn và bản dựng từ GitHub (<code>https://github.com/jianchang512/pyvideotrans</code>) hoặc trang tài liệu (<code>https://pyvideotrans.com</code>).</li>
+    <li><strong>Nghiêm cấm bán thương mại</strong>: Nhà phát triển không ủy quyền cho bất kỳ cá nhân hay tổ chức nào bán phần mềm này. Mọi hành vi mua bán qua bên thứ ba đều không liên quan đến tác giả.</li>
+    <li><strong>Lưu ý quan trọng:</strong> Đối với các API bên thứ ba, bạn cần tự cung cấp tài khoản và khóa API (chỉ lưu trữ cục bộ). Chi phí phát sinh do nhà cung cấp API thu, không liên quan đến tác giả.</li>
+</ul>
+
+<h2>2. Quyền riêng tư dữ liệu</h2>
+<ul>
+    <li><strong>Chạy cục bộ</strong>: Toàn bộ tính năng cốt lõi chạy hoàn toàn trên máy tính của bạn, không thu thập hoặc tải lên thông tin cá nhân, tệp video hay dữ liệu của bạn lên máy chủ tác giả.</li>
+    <li><strong>Dịch vụ bên thứ ba</strong>: Khi bạn chọn sử dụng các dịch vụ API tích hợp (như Microsoft Azure, OpenAI, Edge TTS...), dữ liệu sẽ được gửi trực tiếp từ máy tính của bạn tới nhà cung cấp đó.</li>
+</ul>
+
+<h2>3. Tuyên bố từ chối trách nhiệm</h2>
+<p class="warning">
+    <strong>Phần mềm được cung cấp theo nguyên trạng ("AS IS"), không kèm theo bất kỳ bảo đảm nào, dù rõ ràng hay ngụ ý.</strong>
+</p>
+<ul>
+    <li><strong>Không bảo đảm</strong>: Tác giả không đảm bảo phần mềm đáp ứng mọi nhu cầu của bạn hay hoạt động không có lỗi. Bạn tự chịu mọi rủi ro khi sử dụng.</li>
+    <li><strong>Giới hạn trách nhiệm</strong>: Trong mọi trường hợp, tác giả không chịu trách nhiệm đối với bất kỳ thiệt hại trực tiếp, gián tiếp, ngẫu nhiên hoặc do hậu quả nào phát sinh từ việc sử dụng phần mềm.</li>
+</ul>
+
+<h2>4. Nghĩa vụ của người dùng</h2>
+<ul>
+    <li><strong>Sao lưu dữ liệu</strong>: Bạn có trách nhiệm tự sao lưu các tệp tin quan trọng trước khi xử lý bằng phần mềm.</li>
+    <li><strong>Sử dụng hợp pháp</strong>: Bạn cam kết không sử dụng phần mềm cho các mục đích vi phạm pháp luật.</li>
+</ul>
+
+<h2>5. Điều khoản khác</h2>
+<ul>
+    <li><strong>Sửa đổi thỏa thuận</strong>: Tác giả có quyền sửa đổi các điều khoản trong thỏa thuận này và công bố trên kênh chính thức.</li>
+</ul>
+
+<p>Nếu bạn đã đọc và đồng ý với tất cả các điều khoản trên, vui lòng bắt đầu sử dụng phần mềm. Nếu không, vui lòng xóa phần mềm khỏi thiết bị.</p>

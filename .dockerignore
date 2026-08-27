@@ -1,0 +1,45 @@
+# ============================================================
+# Docker Ignore - pyVideoTrans
+# ============================================================
+
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+
+.git
+.github
+.gitignore
+.dockerignore
+.venv
+venv
+deps/
+output/
+tmp
+tmp/
+logs
+logs/
+models
+models/
+pretrained_models
+pretrained_models/
+runtime
+runtime/
+
+.pytest_cache
+.ruff_cache
+.idea
+.vscode
+.DS_Store
+Thumbs.db
+
+*.md
+*.mp4
+*.mp3
+*.wav
+*.flac
+*.mkv
+*.avi
+*.srt
+*.vtt
